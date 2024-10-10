@@ -1,0 +1,13 @@
+{
+    "titulo": "A Arte da Guerra",
+    "autor": "Sun Tzu",
+    "ano_publicacao": "Século V a.C.",
+    "genero": "Estratégia",
+    "disponibilidade": true,
+    "avaliacao": 4.5,
+    "tags": ["estratégia", "filosofia", "história"],
+    "detalhes": {
+        "editora": "Verissimo",
+        "paginas": 300
+    }
+}
