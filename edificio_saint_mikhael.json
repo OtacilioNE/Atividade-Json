@@ -1,0 +1,46 @@
+{
+    "pessoas": [
+      {
+        "id": 1,
+        "nome": "João",
+        "sobrenome": "Silva",
+        "cpf": "12345678901",
+        "data_nascimento": "1985-05-20",
+        "tipo": "morador"
+      },
+      {
+        "id": 2,
+        "nome": "Maria",
+        "sobrenome": "Oliveira",
+        "cpf": "23456789012",
+        "data_nascimento": "1990-11-15",
+        "tipo": "visitante"
+      },
+      {
+        "id": 3,
+        "nome": "Carlos",
+        "sobrenome": "Santos",
+        "cpf": "34567890123",
+        "data_nascimento": "1988-07-22",
+        "tipo": "funcionario"
+      }
+    ],
+    "frequencia": [
+      {
+        "id_pessoa": 1,
+        "entrada": "2024-10-01T08:00:00",
+        "saida": "2024-10-01T17:00:00"
+      },
+      {
+        "id_pessoa": 2,
+        "entrada": "2024-10-02T09:00:00",
+        "saida": "2024-10-02T18:00:00"
+      },
+      {
+        "id_pessoa": 3,
+        "entrada": "2024-10-03T07:30:00",
+        "saida": "2024-10-03T16:30:00"
+      }
+    ]
+  }
+  
